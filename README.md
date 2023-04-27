@@ -15,3 +15,7 @@ Here are a few of the platforms I designed for the game.
 ![platform6](https://user-images.githubusercontent.com/71084430/234815041-246f01e9-e9d1-4100-8bea-80a99af53e8b.png)
 
 ![platform4](https://user-images.githubusercontent.com/71084430/234815030-660768ae-3e55-4e78-88f8-8dcf2d634140.png)
+
+
+The presentation of the ball designs I made.
+![TopOrnekleri](https://user-images.githubusercontent.com/71084430/234820124-c771c164-2d73-4fbe-931d-42b5ed6ed98a.png)
