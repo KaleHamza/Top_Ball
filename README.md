@@ -1,5 +1,5 @@
 # Top_Ball
-This game is the second one that I am working on for LablaGames.
+
 
 I designed a customization menu for the game and created the purchasing and saving system within it. I integrated the interaction between buttons and the platform and ball prefabs held in the system into the existing library system.
 
